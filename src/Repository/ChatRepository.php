@@ -4,12 +4,11 @@ namespace src\Repository;
 
 use src\Database\Connector;
 use src\Entity\Chat;
-use src\Entity\Mood;
 
 class ChatRepository
 {
     /**
-     * @return array<Mood>
+     * @return array<Chat>
      */
 
     public function fetchAll(): array{

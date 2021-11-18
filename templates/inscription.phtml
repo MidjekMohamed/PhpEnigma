@@ -1,0 +1,11 @@
+<form method="POST">
+    <label for="mood">Pseudo</label>
+    <input type="text" name="pseudo" id="pseudo" required>
+    <label for="mood">Mot de passe</label>
+    <input type="password" name="mdpasse" id="mdpasse" required>
+    <input type="submit" name="enregistrer" value="enregistrer">
+</form>
+
+<ul>
+    {{ utilisateur|raw }}
+</ul>

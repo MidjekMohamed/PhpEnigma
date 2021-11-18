@@ -624,3 +624,165 @@ array (
     )),
   ),
 )
+21-11-18 14:27:02-Controller Not found for path /{{ path(connexion }}
+array (
+  'route' => 
+  array (
+    0 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'connexion',
+       'path' => '/connexion',
+       'controller' => 'src\\Controller\\ConnexionUser',
+    )),
+    1 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'deleteChat',
+       'path' => '/deleteChat',
+       'controller' => 'src\\Controller\\DeleteChat',
+    )),
+    2 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'deleteMood',
+       'path' => '/deleteMood',
+       'controller' => 'src\\Controller\\DeleteMood',
+    )),
+    3 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'form',
+       'path' => '/form',
+       'controller' => 'src\\Controller\\Form',
+    )),
+    4 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'accueil',
+       'path' => '/home',
+       'controller' => 'src\\Controller\\Home',
+    )),
+    5 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'info',
+       'path' => '/info',
+       'controller' => 'src\\Controller\\Info',
+    )),
+    6 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'message',
+       'path' => '/message',
+       'controller' => 'src\\Controller\\Message',
+    )),
+    7 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'query',
+       'path' => '/query',
+       'controller' => 'src\\Controller\\Query',
+    )),
+  ),
+)
+21-11-18 14:50:29-Controller Not found for path /{{ path }}
+array (
+  'route' => 
+  array (
+    0 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'inscription',
+       'path' => '/inscription',
+       'controller' => 'src\\Controller\\ConnexionUser',
+    )),
+    1 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'deleteChat',
+       'path' => '/deleteChat',
+       'controller' => 'src\\Controller\\DeleteChat',
+    )),
+    2 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'deleteMood',
+       'path' => '/deleteMood',
+       'controller' => 'src\\Controller\\DeleteMood',
+    )),
+    3 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'form',
+       'path' => '/form',
+       'controller' => 'src\\Controller\\Form',
+    )),
+    4 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'accueil',
+       'path' => '/home',
+       'controller' => 'src\\Controller\\Home',
+    )),
+    5 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'info',
+       'path' => '/info',
+       'controller' => 'src\\Controller\\Info',
+    )),
+    6 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'message',
+       'path' => '/message',
+       'controller' => 'src\\Controller\\Message',
+    )),
+    7 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'query',
+       'path' => '/query',
+       'controller' => 'src\\Controller\\Query',
+    )),
+  ),
+)
+21-11-18 14:51:09-Controller Not found for path /{{ path }}
+array (
+  'route' => 
+  array (
+    0 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'deleteChat',
+       'path' => '/deleteChat',
+       'controller' => 'src\\Controller\\DeleteChat',
+    )),
+    1 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'deleteMood',
+       'path' => '/deleteMood',
+       'controller' => 'src\\Controller\\DeleteMood',
+    )),
+    2 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'form',
+       'path' => '/form',
+       'controller' => 'src\\Controller\\Form',
+    )),
+    3 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'accueil',
+       'path' => '/home',
+       'controller' => 'src\\Controller\\Home',
+    )),
+    4 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'info',
+       'path' => '/info',
+       'controller' => 'src\\Controller\\Info',
+    )),
+    5 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'inscription',
+       'path' => '/inscription',
+       'controller' => 'src\\Controller\\InscriptionUser',
+    )),
+    6 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'message',
+       'path' => '/message',
+       'controller' => 'src\\Controller\\Message',
+    )),
+    7 => 
+    src\Router\Route::__set_state(array(
+       'name' => 'query',
+       'path' => '/query',
+       'controller' => 'src\\Controller\\Query',
+    )),
+  ),
+)
