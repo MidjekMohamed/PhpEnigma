@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title>Mon site</title>
+</head>
+<body>
+<h1>Mon site</h1>
+<p>
+    <a href="{{ path(accueil) }}">Home</a>
+    <a href="{{ path(info) }}">Info</a>
+    <a href="{{ path(query, {"name": "Mohamed"}) }}">Query</a>
+</p>
+{{ content|raw }}
+</body>
+</html>
